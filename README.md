@@ -1,2 +1,4 @@
-# Strings-and-operators
-Re practicing the topics for strong basics.
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+
+print(f"Hello,{name}! You are {age} years old.")
